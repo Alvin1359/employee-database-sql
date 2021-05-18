@@ -6,7 +6,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 ## SQL Challenge Structure
 ```
-Python API Challenge
+SQL Challenge
 |__ data/                   # contains employee data
 |
 |__ images/                 # contains images of employee_db ERD and output graphs
