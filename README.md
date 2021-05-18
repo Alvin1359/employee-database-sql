@@ -26,7 +26,7 @@ SQL Challenge
 ```
 
 ## Data Modelling:
-- ERD and table scheme constructed using http://www.quickdatabasediagrams.com
+- ERD and table schema constructed using http://www.quickdatabasediagrams.com
   
 ## Data Engineering:
 - Create a table schema for each CSV file, specifying data types, foreign keys and other constraints
